@@ -1,2 +1,1 @@
-# anna-asamoah-project-2
-my homework
+# goit-markup-hw-01
